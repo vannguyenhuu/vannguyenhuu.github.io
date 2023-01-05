@@ -31,7 +31,8 @@
 <body>
 
   <!-- ======= Mobile nav toggle button ======= -->
-  <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+
+<i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
 
   <!-- ======= Header ======= -->
   <header id="header">
@@ -42,7 +43,7 @@
         <h1 class="text-light"><a href="index.html">Van Nguyen</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-          <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+          <a href="#" class="facebookxxx"><i class="bx bxl-facebook"></i></a>
           <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
           <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
           <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
@@ -60,6 +61,7 @@
         </ul>
       </nav><!-- .nav-menu -->
     </div>
+
   </header>
   <!-- End Header -->
 
@@ -487,7 +489,7 @@
       </div>
     </section><!-- End Testimonials Section -->
 
-    
+
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
@@ -567,7 +569,7 @@
   </footer>
   <!-- End  Footer -->
 
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
